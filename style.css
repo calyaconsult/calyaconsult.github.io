@@ -59,33 +59,37 @@
       border-radius: 10px;
       padding: 1.5rem;
 
-      /* NEW: make room for the icon + allow absolute positioning */
-      position: relative;
-      padding-right: calc(1.5rem + 80px + 0.75rem);
+      /* remove the fixed right column */
+      /* position: relative;            <- not needed anymore */
+      /* padding-right: calc(...);      <- remove */
 
       box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
       transition: transform 0.3s ease, box-shadow 0.3s ease, border-color 0.3s ease;
       border: 1px solid transparent;
     }
 
-    .card:hover {
-      transform: translateY(-8px);
-      box-shadow: 0 10px 20px rgba(0, 0, 0, 0.6);
-      border-color: #00aaff;
-    }
-
-    /* NEW: the 80x80 icon in the top-right corner */
+    /* Make the icon wrap text instead of forcing a column */
     .card .card-icon {
-      position: absolute;
-      top: 1rem;
-      right: 1rem;
+      float: right;
       width: 80px;
       height: 80px;
-      object-fit: cover;     /* use 'contain' if you don't want cropping */
-      border-radius: 10px;   /* optional */
-      opacity: 0.95;         /* optional */
-      pointer-events: none;  /* keeps hover/click behavior on card links */
+      object-fit: cover;
+      border-radius: 10px;
+      opacity: 0.95;
+
+      /* spacing between image and text */
+      margin: 0 0 0.75rem 0.75rem;
+
+      pointer-events: none;
       user-select: none;
+      display: block;
+    }
+
+    /* (optional but safe) clear the float so the card contains it properly */
+    .card::after {
+      content: "";
+      display: block;
+      clear: both;
     }
 
     .card h2 {
