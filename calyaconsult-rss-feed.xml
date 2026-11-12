@@ -6,141 +6,159 @@
     <description>Simple yet powerful utility scripts</description>
     <atom:link href="https://github.calyaconsult.ch/calyaconsult-rss-feed.xml" rel="self" type="application/rss+xml" />
     <language>de-CH</language>
-    <lastBuildDate>Thu, 05 Nov 2026 17:02:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 04:35:34 +0000</lastBuildDate>
 <!-- ITEMS:START -->
 <item>
-  <title>Neu! GitHub für KMU</title>
+  <title>CCCH Showcases</title>
+  <link>https://github.com/calyaconsult/ccch-showcases</link>
+  <description>Featured dashboards and other nice things</description>
+  <pubDate>Thu, 12 Nov 2026 04:35:34 +0000</pubDate>
+  <guid isPermaLink="false">https://github.com/calyaconsult/ccch-showcases#2026-11-12T04:35:34Z</guid>
+  <category>new</category>
+</item>
+
+<item>
+  <title>Daily Files</title>
+  <link>https://github.com/calyaconsult/daily-files</link>
+  <description>A way to log your work as a list of files created or modified each day</description>
+  <pubDate>Wed, 11 Nov 2026 07:48:22 +0000</pubDate>
+  <guid isPermaLink="false">https://github.com/calyaconsult/daily-files#2026-11-11T07:48:22Z</guid>
+  <category>new</category>
+</item>
+
+<item>
+  <title>GitHub für KMU</title>
   <link>https://github.com/calyaconsult/github-fuer-kmu</link>
   <description>Material für einen Artikel zum Thema &quot;GitHub für KMU&quot;</description>
   <pubDate>Thu, 05 Nov 2026 17:02:34 +0000</pubDate>
   <guid isPermaLink="false">https://github.com/calyaconsult/github-fuer-kmu#2026-11-05T17:02:34Z</guid>
-  <category>featured</category>
+  <category>new</category>
 </item>
 
 <item>
-  <title>Neu! Minimal Blog Pipeline</title>
+  <title>Minimal Blog Pipeline</title>
   <link>https://github.com/calyaconsult/minimal-blog-pipeline</link>
   <description>Ein node.js-basierter, statischer Blog-Generator zur raschen und unkomplizierten Erstellung von Blog-Beiträgen.</description>
   <pubDate>Tue, 03 Nov 2026 09:41:52 +0000</pubDate>
   <guid isPermaLink="false">https://github.com/calyaconsult/minimal-blog-pipeline#2026-11-03T09:41:52Z</guid>
-  <category>new</category>
+  <category>general</category>
 </item>
 
 <item>
-  <title>Neu! Synthetic Traffic Generator</title>
+  <title>Synthetic Traffic Generator</title>
   <link>https://github.com/calyaconsult/synthtraffic</link>
   <description>Ein Python-Projekt zur Generierung realistischer Web-Traffic-Daten für Test- und Demo-Zwecke.</description>
   <pubDate>Thu, 29 Oct 2026 22:12:34 +0000</pubDate>
   <guid isPermaLink="false">https://github.com/calyaconsult/synthtraffic#2026-10-29T22:12:34Z</guid>
-  <category>new</category>
+  <category>general</category>
 </item>
 
 <item>
-  <title>Neu! Article Template</title>
+  <title>Article Template</title>
   <link>https://github.com/calyaconsult/article-templating</link>
   <description>Generierung des HTML-Gerüsts für einen neuen Artikel und Einlesen des Inhalts.</description>
   <pubDate>Fri, 23 Oct 2026 15:20:22 +0000</pubDate>
   <guid isPermaLink="false">https://github.com/calyaconsult/article-templating#2026-10-23T15:20:22Z</guid>
-  <category>featured</category>
+  <category>general</category>
 </item>
 
 <item>
-  <title>Neu! HTML-Timeline</title>
+  <title>HTML-Timeline</title>
   <link>https://github.com/calyaconsult/milestones</link>
   <description>Eine anpassbare, interaktive Timeline-Webanwendung zur Visualisierung wichtiger Meilensteine und Termine.</description>
   <pubDate>Wed, 07 Oct 2026 08:25:56 +0000</pubDate>
   <guid isPermaLink="false">https://github.com/calyaconsult/milestones#2026-10-07T08:25:56Z</guid>
-  <category>featured</category>
+  <category>general</category>
 </item>
 
 <item>
-  <title>Neu! Pipeline Sync Checker</title>
+  <title>Pipeline Sync Checker</title>
   <link>https://github.com/calyaconsult/pipeline-sync-checker</link>
   <description>Three scripts that provide information on the status of a local master list vs a processing pipeline on a remote server.</description>
   <pubDate>Thu, 02 Jul 2026 16:04:32 +0000</pubDate>
   <guid isPermaLink="false">https://github.com/calyaconsult/pipeline-sync-checker#2026-07-02T16:04:32Z</guid>
-  <category>featured</category>
+  <category>general</category>
 </item>
 
 <item>
-  <title>Neu! Pizzeria Simulator</title>
+  <title>Pizzeria Simulator</title>
   <link>https://github.com/calyaconsult/pizzeria-simulator</link>
   <description>A simple simulation of the daily sales and inventory cycles of a pizzeria.</description>
   <pubDate>Mon, 20 Apr 2026 16:28:58 +0000</pubDate>
   <guid isPermaLink="false">https://github.com/calyaconsult/pizzeria-simulator#2026-04-20T16:28:58Z</guid>
-  <category>featured</category>
+  <category>general</category>
 </item>
 
 <item>
-  <title>Neu! Dashboard-Galerie</title>
+  <title>Dashboard-Galerie</title>
   <link>https://github.com/calyaconsult/kpi-dashboard</link>
   <description>Eine Auswahl an Dashboards und Dashboard-Templates.</description>
   <pubDate>Sun, 19 Apr 2026 05:55:51 +0000</pubDate>
   <guid isPermaLink="false">https://github.com/calyaconsult/kpi-dashboard#2026-04-19T05:55:51Z</guid>
-  <category>featured</category>
+  <category>general</category>
 </item>
 
 <item>
-  <title>Neu! Teaser Rotator</title>
+  <title>Teaser Rotator</title>
   <link>https://github.com/calyaconsult/teaser-rotator</link>
   <description>Now with images and improved CSS.</description>
   <pubDate>Sat, 28 Mar 2026 08:34:09 +0000</pubDate>
   <guid isPermaLink="false">https://github.com/calyaconsult/teaser-rotator#2026-03-28T08:34:09Z</guid>
-  <category>featured</category>
+  <category>general</category>
 </item>
 
 <item>
-  <title>Neu! Anthologie maschinengeschriebener Texte</title>
+  <title>Anthologie maschinengeschriebener Texte</title>
   <link>https://github.com/calyaconsult/anthology-manuscript-delivery</link>
   <description>Documenting the delivery phase of the anthology &quot;Synthetic Texts&quot;.</description>
   <pubDate>Wed, 11 Mar 2026 14:06:52 +0000</pubDate>
   <guid isPermaLink="false">https://github.com/calyaconsult/anthology-manuscript-delivery#2026-03-11T14:06:52Z</guid>
-  <category>new</category>
+  <category>general</category>
 </item>
 
 <item>
-  <title>Neu! A generic-form</title>
+  <title>A generic-form</title>
   <link>https://github.com/calyaconsult/generic-form</link>
   <description>Generic HTML, CSS, and Javascript code for building a contact form.</description>
   <pubDate>Mon, 23 Feb 2026 14:31:17 +0000</pubDate>
   <guid isPermaLink="false">https://github.com/calyaconsult/generic-form#2026-02-23T14:31:17Z</guid>
-  <category>featured</category>
+  <category>general</category>
 </item>
 
 <item>
-  <title>Neu! Blog-Karussell mit automatischer Rotation</title>
+  <title>Blog-Karussell mit automatischer Rotation</title>
   <link>https://github.com/calyaconsult/blog-karussell</link>
   <description>Blog-Karussell mit automatischer Rotation.</description>
   <pubDate>Fri, 30 Jan 2026 12:27:53 +0000</pubDate>
   <guid isPermaLink="false">https://github.com/calyaconsult/blog-karussell#2026-01-30T12:27:53Z</guid>
-  <category>featured</category>
+  <category>general</category>
 </item>
 
 <item>
-  <title>Neu! Sitemap abgleichen</title>
+  <title>Sitemap abgleichen</title>
   <link>https://github.com/calyaconsult/ocr-for-directory-audit</link>
   <description>Anleitung, wie man einen Screenshot nutzen kann, um die lokale mit der publizierten Sitemap abzugleichen.</description>
   <pubDate>Fri, 21 Nov 2025 04:45:10 +0000</pubDate>
   <guid isPermaLink="false">https://github.com/calyaconsult/ocr-for-directory-audit#2025-11-21T04:45:10Z</guid>
-  <category>featured</category>
+  <category>general</category>
 </item>
 
 <item>
-  <title>Neu! Mit PowerShell nach Zeichenketten in Dateien suchen</title>
+  <title>Mit PowerShell nach Zeichenketten in Dateien suchen</title>
   <link>https://github.com/calyaconsult/script-des-tages</link>
   <description>Nützliche Scripts für Windows und Linux.</description>
   <pubDate>Thu, 30 Oct 2025 09:49:22 +0000</pubDate>
   <guid isPermaLink="false">https://github.com/calyaconsult/script-des-tages#2025-10-30T09:49:22Z</guid>
-  <category>featured</category>
+  <category>general</category>
 </item>
 
 <item>
-  <title>Neu! Developed for weihnachten.calyaconsult.ch</title>
+  <title>Developed for weihnachten.calyaconsult.ch</title>
   <link>https://github.com/calyaconsult/xmas-template</link>
   <description>One or more HTML templates for the Christmas pages.</description>
   <pubDate>Tue, 28 Oct 2025 09:28:25 +0000</pubDate>
   <guid isPermaLink="false">https://github.com/calyaconsult/xmas-template#2025-10-28T09:28:25Z</guid>
-  <category>featured</category>
+  <category>general</category>
 </item>
 <!-- ITEMS:END -->
 </channel>
